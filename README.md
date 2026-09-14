@@ -52,7 +52,7 @@ dart run github_cli/bin/github_cli.dart 2024100122t-prog/US_Census_Demographic_E
 ```
 
 ## Author
-Created as a class project by [your name here].
+Created as a class project by [Delan, Mark V].
 
 ## About
 A Dart CLI tool for auditing GitHub repositories — stars, forks, issues, and description at a glance.
