@@ -45,12 +45,6 @@ Or run it without an argument to be prompted interactively:
 dart run github_cli/bin/github_cli.dart
 ```
 
-## Example
-Fetch stats for a repository:
-```
-dart run github_cli/bin/github_cli.dart 2024100122t-prog/US_Census_Demographic_Explorer
-```
-
 ## Author
 Created as a class project by Delan, Mark V.
 
