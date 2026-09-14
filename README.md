@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/32188234/README.md)
-# GitHub-Repo-Explorer# GitHub Repo Explorer
+# GitHub-Repo-Explorer
 
 A command-line tool built in Dart that fetches and displays repository data from the GitHub API. Users can query any public repository by owner and name to see its stats and metadata.
 
